@@ -1,2 +1,1 @@
-# ctf
-Div kode fra CTF oppgaver
+### Div kode fra CTF oppgaver
