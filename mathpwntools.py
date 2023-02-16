@@ -1,3 +1,4 @@
+# Kode for oppgave i UiT CTF 2023
 from pwn import *
 import math
 
